@@ -1,5 +1,5 @@
 # Fact-verification
-![](https://img.shields.io/badge/method-cosine&Word2Vec-orange.svg)
+![](https://img.shields.io/badge/method-cosine&Word2Vec-blue.svg)
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
 Automatic Fact Verification
