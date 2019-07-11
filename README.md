@@ -16,11 +16,16 @@ From Training dataset to develop a reasonable prediction for the test data to ev
 4. Label classification
 
 ## Preprocess ##
-👻`Json` to `Dataframe` 
+👻`Json` to `Dataframe`
+
 👻Remove `StopWords`
+
 👻`LowerCase`
+
 
 ## Document Retrieval ##
 🌎`pylucene`to locate index
-🌍
-🌏
+
+🌍`BM25` algorithm to improve recall and accuracy
+
+🌏`Potential Title` extraction
