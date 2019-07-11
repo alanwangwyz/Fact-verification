@@ -7,9 +7,9 @@
 🍀
 **Task**
 
-From Training dataset to develop a reasonable prediction for the test data to evaluate our model
+From training dataset to develop the reasonable prediction for the test data to evaluate our model
 
-**Key Process To Generate result**
+**Key Process to Generate Result**
 1. Preprocess
 2. Document Retrieval
 3. Sentence Retrieval
