@@ -26,7 +26,7 @@ From Training dataset to develop a reasonable prediction for the test data to ev
 ## Document Retrieval ##
 🌎`pylucene`to locate index
 
-🌍`BM25` algorithm to improve recall and accuracy
+🌍Change `BM25` parametre algorithm to improve recall and accuracy
 
 🌏`Potential Title` extraction
 
