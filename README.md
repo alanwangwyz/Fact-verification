@@ -29,3 +29,17 @@ From Training dataset to develop a reasonable prediction for the test data to ev
 🌍`BM25` algorithm to improve recall and accuracy
 
 🌏`Potential Title` extraction
+
+## Sentence Retrieval ##
+✨`Two` evidence for selection
+
+✨`W2V``GloVe``Cosine`model 
+
+✨`NER` and so on
+
+## Label Classification ##
+👉Allennlp Textual Entailment model
+
+## Result ##
+|Document F1|Sentence F1|Label Accuracy|
+|47.2%|43.09%|55.61%|
