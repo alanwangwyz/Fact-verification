@@ -1,7 +1,7 @@
 # Fact-verification
-![](https://img.shields.io/badge/index-pylucene-green.svg)
-![](https://img.shields.io/badge/method-cosine&Word2Vec-blue.svg)
-![](https://img.shields.io/badge/language-jupyternotebook-orange.svg)
+![](https://img.shields.io/badge/Index-pylucene-green.svg)
+![](https://img.shields.io/badge/Method-Cosine&W2V-blue.svg)
+![](https://img.shields.io/badge/Language-jupyter notebook-orange.svg)
 
 ![image](https://github.com/alanwangwyz/Fact-verification/blob/master/image/article-fact-or-opinion.jpg)
 🍀
