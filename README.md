@@ -4,7 +4,9 @@
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
 ![image](https://github.com/alanwangwyz/Fact-verification/blob/master/image/article-fact-or-opinion.jpg)
-🍀**Task** 
+🍀
+**Task**
+
 From Training dataset to develop a reasonable prediction for the test data to evaluate our model
 
 **Key Process To Generate result**
