@@ -14,3 +14,13 @@ From Training dataset to develop a reasonable prediction for the test data to ev
 2. Document Retrieval
 3. Sentence Retrieval
 4. Label classification
+
+## Preprocess ##
+👻`Json` to `Dataframe` 
+👻Remove `StopWords`
+👻`LowerCase`
+
+## Document Retrieval ##
+🌎`pylucene`to locate index
+🌍
+🌏
