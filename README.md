@@ -42,4 +42,5 @@ From Training dataset to develop a reasonable prediction for the test data to ev
 
 ## Result ##
 |Document F1|Sentence F1|Label Accuracy|
+| :----------: | :-----------:  | :-----------: |
 |47.2%|43.09%|55.61%|
